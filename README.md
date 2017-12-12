@@ -1,12 +1,12 @@
-# [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
+# [SB Admin](https://themewagon.com/themes/bootstrap-4-admin-template/)
 
-[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+SB Admin is an open source, admin dashboard template for [Bootstrap 4](https://themewagon.com/theme_tag/bootstrap-4-templates/) created by [Start Bootstrap](http://startbootstrap.com/) and distributed by [ThemeWagon](https://themewagon.com/).
 
 ## Preview
 
-[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://blackrockdigital.github.io/startbootstrap-sb-admin/)
+[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://themewagon.com/themes/bootstrap-4-admin-template/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin/)**
+**[View Live Preview](http://demo.themewagon.com/preview/bootstrap-4-admin-template)**
 
 ## Status
 
@@ -19,10 +19,10 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin/)
+* [Download from ThemeWagon](https://themewagon.com/themes/bootstrap-4-admin-template/)
 * Install via npm: `npm i startbootstrap-sb-admin`
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
+* [Fork, Clone, or Download on GitHub](https://github.com/technext/sb-admin)
 
 ## Usage
 
@@ -53,18 +53,12 @@ You can hire Start Bootstrap to create a custom build of any template, or create
 
 ## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+ThemeWagon is a popular site for HTML5 and Bootstrap website templates. Let's visit our site to see some of the world's best templates built with the modern, awesome technology. Here are a few popular links to get help:
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+* https://themewagon.com/blog
+* https://themewagon.com/theme_tag/free/
+* https://themewagon.com/theme-categories/admin-dashboard/
+* https://themewagon.com/theme_tag/bootstrap-4-templates/
 
 ## Copyright and License
 
